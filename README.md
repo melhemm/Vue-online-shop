@@ -1,8 +1,5 @@
 # Demo https://elated-hawking-d71860.netlify.app/
 
-
-# Vuex Shopping Cart
-
 ## Project setup
 ```
 npm install
