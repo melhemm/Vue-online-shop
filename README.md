@@ -1,5 +1,5 @@
-## Demo 
-https://elated-hawking-d71860.netlify.app/
+## Demo https://elated-hawking-d71860.netlify.app/
+
 
 # Vuex Shopping Cart
 
