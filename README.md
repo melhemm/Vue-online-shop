@@ -1,4 +1,4 @@
-# Demo https://elated-hawking-d71860.netlify.app/
+# Demo https://online-shop-vue-js.netlify.app/
 
 ## Project setup
 ```
