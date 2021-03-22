@@ -1,4 +1,4 @@
-# Demo https://online-shop-vue-js.netlify.app/
+# Demo https://vue-online-store-jamal.netlify.app/
 
 ## Project setup
 ```
