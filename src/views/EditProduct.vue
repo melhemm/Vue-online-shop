@@ -7,10 +7,10 @@
         <label for="product_model">Модель Мовара</label>
       </div>
 
-      <div class="form-group">
+      <!-- <div class="form-group">
         <input v-model="img" type="url" class="form-control">
         <label for="product_img">Картинка товара</label>
-      </div>
+      </div> -->
       <div class="form-group">
         <input v-model="price" type="number" class="form-control">
         <label for="price">Стоимость</label>

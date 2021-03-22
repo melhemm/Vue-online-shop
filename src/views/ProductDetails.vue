@@ -5,7 +5,8 @@
         <aside class="col-sm-5 border-right">
           <article class="gallery-wrap">
             <div class="img-big-wrap">
-              <div> <a href="#"><img class="img-fluid" :src="singleProduct.img"></a></div>
+              <div> <a href="#">
+              <img class="img-fluid" :src="singleProduct.img"></a></div>
             </div> <!-- slider-product.// -->
           </article> <!-- gallery-wrap .end// -->
         </aside>

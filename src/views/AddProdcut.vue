@@ -1,4 +1,5 @@
-<!--  <template>
+<!--<template>
+ 
   <div class="container col-md-4">
     <h1>Add A Product</h1>
     <form @submit.prevent="submitHandler()">
@@ -54,6 +55,4 @@ export default {
   },
 }
 </script>
--->
-
-
+ -->
